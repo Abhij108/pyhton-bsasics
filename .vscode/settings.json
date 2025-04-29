@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "onWindowChange",
+    "python.createEnvironment.contentButton": "show",
+    "python.globalModuleInstallation": true,
+    "python.missingPackage.severity": "Information",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.executeInFileDir": true
+}
